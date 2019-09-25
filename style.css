@@ -262,7 +262,7 @@ footer {
     }
 }
 
-@media(max-width: 1366px){
+@media(max-width: 1200px){
     header #branding,
     header nav,
     header nav li,
