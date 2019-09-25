@@ -81,7 +81,7 @@ header a:hover {
 /* showcase */
 #showcase {
     min-height: 400px;
-    background:url('../img/showcase.jpg') no-repeat 0 -400px;
+    background:url('showcase.jpg') no-repeat 0 -400px;
     background-size: cover;
     opacity: 2.5;
     text-align: center;
@@ -199,7 +199,7 @@ footer {
     }
 
     #showcase {
-        background:url('../img/showcase.jpg') no-repeat;
+        background:url('showcase.jpg') no-repeat;
         background-size: cover;
         opacity: 0.8;
     }
@@ -242,7 +242,7 @@ footer {
     }
 
     #showcase {
-        background:url('../img/showcase.jpg') no-repeat;
+        background:url('showcase.jpg') no-repeat;
         background-size: cover;
         opacity: 0.8;
     }
