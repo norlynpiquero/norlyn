@@ -285,7 +285,7 @@ footer {
     }
 
     #showcase {
-        background: url("showcase.jpg") no-repeat;
+        background: url("showcase.jpg") no-repeat 0 -400px;
         background-size: cover;
         opacity: 0.8;
     }
