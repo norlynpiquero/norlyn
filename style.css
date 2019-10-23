@@ -203,7 +203,7 @@ footer {
     }
 
     #showcase {
-        background:url('../img/showcase.jpg') no-repeat;
+        background:url('showcase.jpg') no-repeat;
         background-size: cover;
         opacity: 0.8;
     }
@@ -246,7 +246,7 @@ footer {
     }
 
     #showcase {
-        background:url('../img/showcase.jpg') no-repeat;
+        background:url('showcase.jpg') no-repeat;
         background-size: cover;
         opacity: 0.8;
     }
