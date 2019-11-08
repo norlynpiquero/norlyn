@@ -142,7 +142,7 @@ aside#sidebar {
     float: right;
     width: 30%;
     margin-top: 10px;
-    text-align: justify;
+    text-align: left;
 }
 
 aside#sidebar .quote input, aside#sidebar .quote textarea {
